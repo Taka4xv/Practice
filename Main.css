@@ -1,0 +1,14 @@
+.column{
+ column-count: 5; /*リストを横に並べる数*/
+ width: 700px;
+}
+
+h2{
+    color: red
+}
+
+.list{
+border: 1px solid black;  
+margin-right: 10px;
+background-color: #CCFFCC; /* LiteGreen*/
+}
